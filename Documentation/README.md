@@ -24,21 +24,3 @@ The various processes involved are explained below:<br>
 <li>Exhaust phase, where the remaining exhaust gases are removed from the chamber through a constant pressure method.</li>
 <br>
 In this experiment, the Otto cycle is demonstrated so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
-
-#### Developer Details
-
-<b>Name of Developer | <b> K V Gangadharan
-:--|:--|
-<b> Institute | <b> National Institute of Technology Karnataka, Surathkal
-<b> Department | <b> Mechanical Engineering
-
-#### Contributors List
-
-Kriti Shukla | NITK <br>
-Drishika Nadella | NITK <br>
-Sooraj Acharya | NITK <br>
-Rohit Kushwaha | NITK <br>
-Ranjan Tunga S | NITK <br>
-Akshaya | NITK <br>
-Anusha B Salian | NITK <br>
-Vishwas A S | NITK <br>
