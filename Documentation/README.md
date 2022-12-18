@@ -30,7 +30,6 @@ In this experiment, the Otto cycle is demonstrated so that the user can understa
 <b>Name of Developer | <b> K V Gangadharan
 :--|:--|
 <b> Institute | <b> National Institute of Technology Karnataka, Surathkal
-<b> Email id|   <b> kvganga@nitk.ac.in
 <b> Department | <b> Mechanical Engineering
 
 #### Contributors List
