@@ -10,7 +10,7 @@
     <li>Thermodynamics: An Engineering Approach - Yunus A Cengel, Michael A Boles</li>
     </ol>
    </td>
-    <td>Developer : Dr. K V Gangadharan | NITK</br></br>
+    <td>Developer: Dr. K V Gangadharan | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
     <li>Kriti Shukla | NITK</li>
